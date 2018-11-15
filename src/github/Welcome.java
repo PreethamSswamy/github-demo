@@ -6,5 +6,8 @@ public class Welcome {
 	System.out.println("learning git");
 
 	}
+	void add(){
+		
+	}
 
 }
